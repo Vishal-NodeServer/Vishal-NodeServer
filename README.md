@@ -1,26 +1,32 @@
 <h1 align="center">Vishal Suthar 🌐 👋</h1>
 
-
 <table>
   <tr>
     <td>
-      Hi there! 👋 I'm Vishal, a tech enthusiast who's diving deep into the world of **DevOps**, **Cloud**, and **Networking**. I'm passionate about learning and growing in these fields.
+      <h2>Hi there!</h2>
+      I'm Vishal, a tech enthusiast who's diving deep into the world of **DevOps**, **Cloud**, and **Networking**. I'm passionate about learning and growing in these fields.
       <br><br>
-      ## 🚀 About Me
-      - 🌱 I’m currently learning DevOps, Cloud, and Networking.
-      - 🎯 My goal is to become a proficient DevOps and Cloud Engineer.
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🌱 I’m currently learning DevOps, Cloud, and Networking.</li>
+        <li>🎯 My goal is to become a proficient DevOps and Cloud Engineer.</li>
+      </ul>
       <br><br>
-      ## 😄 Fun Facts
-      - I believe in **automation** so much that I wish I could automate making coffee! ☕
-      - I've probably spent more time debugging than coding... but that's part of the fun, right? 😅
+      <h2>😄 Fun Facts</h2>
+      <ul>
+        <li>I believe in <strong>automation</strong> so much that I wish I could automate making coffee! ☕</li>
+        <li>I've probably spent more time debugging than coding... but that's part of the fun, right? 😅</li>
+      </ul>
       <br><br>
-      ## 📫 How to reach me
-      - **Email**: [vishal123suthar2@gmail.com](mailto:vishal123suthar2@gmail.com)
-      - **GitHub**: [Vishal-NodeServer](https://github.com/Vishal-NodeServer)
-      - **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/vishal-suthar-8317b4246)
+      <h2>📫 How to reach me</h2>
+      <ul>
+        <li>**Email**: <a href="mailto:vishal123suthar2@gmail.com">vishal123suthar2@gmail.com</a></li>
+        <li>**GitHub**: <a href="https://github.com/Vishal-NodeServer">Vishal-NodeServer</a></li>
+        <li>**LinkedIn**: <a href="https://www.linkedin.com/in/vishal-suthar-8317b4246">Connect with me!</a></li>
+      </ul>
       <br><br>
       ---
-      Let's connect and create something amazing together! 🚀
+      <h3>Let's connect and create something amazing together! 🚀</h3>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="Learning DevOps, Cloud, and Networking" width="250">
