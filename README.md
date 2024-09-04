@@ -1,4 +1,4 @@
-<h1 align="center">Vishal Suthar 🌐 👋</h1>
+<h1 align="center">Vishal Suthar👋</h1>
 
 <table>
   <tr>
