@@ -27,6 +27,5 @@
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" alt="Learning DevOps, Cloud, and Networking" style="max-width: 100%; height: auto; margin-bottom: 10px;">
-  <img src="https://tenor.com/bAbNJ.gif" alt="Learning DevOps, Cloud, and Networking" style="max-width: 100%; height: auto; margin-bottom: 10px;">
+  <img src="https://media1.tenor.com/m/cFb5-yNjLSkAAAAd/khatta-meetha-johnny-lever.gif" alt="Learning DevOps, Cloud, and Networking" style="max-width: 100%; height: auto; margin-bottom: 10px;">
 </div>
